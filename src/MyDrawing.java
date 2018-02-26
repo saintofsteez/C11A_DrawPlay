@@ -1,3 +1,10 @@
+/**
+ * Joseh Woodard
+ * Garrett Vanbuskirk
+ */
+
+
+
 import java.awt.Graphics;
 
 import javax.swing.JFrame;

@@ -1,3 +1,9 @@
+/**
+ * Joseh Woodard
+ * Garrett Vanbuskirk
+ */
+
+
 import javax.swing.JPanel;
 import java.awt.*;
 import java.awt.geom.*;
