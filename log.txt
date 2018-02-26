@@ -1,3 +1,15 @@
+commit b0b77c96cfa2541dcc235555d0d09c32039b5f70
+Author: Joseph Woodard <jwoodard@mymail.mines.edu>
+Date:   Sun Feb 25 17:09:29 2018 -0700
+
+    Added comments of the group members names
+
+commit 65c9d702b1fddf8cc6a0c11c220b41f2ef3cb146
+Author: Joseph Woodard <jwoodard@mymail.mines.edu>
+Date:   Sun Feb 25 17:06:19 2018 -0700
+
+    Created the log.txt file which contatins the log of commits
+
 commit da2081fbfa37cb90ebfbd22e43862335a16b9f15
 Author: Joseph Woodard <jwoodard@mymail.mines.edu>
 Date:   Sun Feb 25 17:05:00 2018 -0700
