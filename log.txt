@@ -1,0 +1,77 @@
+commit da2081fbfa37cb90ebfbd22e43862335a16b9f15
+Author: Joseph Woodard <jwoodard@mymail.mines.edu>
+Date:   Sun Feb 25 17:05:00 2018 -0700
+
+    Changed the cat color back to black and changed the eyes to blue
+
+commit 800f12356d97574f4cf746d288c9e114a7a95829
+Author: gvanbusk <gvanbusk@mymail.mines.edu>
+Date:   Sun Feb 25 17:03:24 2018 -0700
+
+    changed eye placement
+
+commit d12ea3b5a3ef38271b3605bff3d532f9a7b7a7ed
+Author: Joseph Woodard <jwoodard@mymail.mines.edu>
+Date:   Sun Feb 25 17:02:17 2018 -0700
+
+    Changed eye color to yellow
+
+commit 3edc9b940ea61736508e82661831667f65c86151
+Author: gvanbusk <gvanbusk@mymail.mines.edu>
+Date:   Sun Feb 25 17:01:11 2018 -0700
+
+    Changed eyes to red
+
+commit 0af28e8ff6714cb4c1653abab5480c094f380204
+Author: Joseph Woodard <jwoodard@mymail.mines.edu>
+Date:   Sun Feb 25 16:59:40 2018 -0700
+
+    Decreased eye height, changed cat color to white
+
+commit 74c9b70452f0bd0c065a512c74a49a5b501ea9dc
+Author: gvanbusk <gvanbusk@mymail.mines.edu>
+Date:   Sun Feb 25 16:57:47 2018 -0700
+
+    Decreased eye height testing to see if my name shows up
+
+commit 80048ecffb3246dd37b08f098fa9ad14d5dc5721
+Author: saintofsteez <jwoodard@mymail.mines.edu>
+Date:   Sun Feb 25 16:52:05 2018 -0700
+
+    Head is larger
+
+commit 9323cbd6b6d5b1610017588412fbd6819c713eda
+Author: saintofsteez <jwoodard@mymail.mines.edu>
+Date:   Sun Feb 25 16:42:16 2018 -0700
+
+    made it cry
+
+commit 5bcbe8651dd6a455d2901998a5519d4c6761a6dd
+Author: Joseph Woodard <jwoodard@mymail.mines.edu>
+Date:   Sun Feb 25 16:40:37 2018 -0700
+
+    Changed the color of the mouth to be red
+
+commit 24d1535a7f4c1134be00da1063dca193c7ad3277
+Author: saintofsteez <jwoodard@mymail.mines.edu>
+Date:   Sun Feb 25 16:38:44 2018 -0700
+
+    added more wwwws
+
+commit d08f2ae02203a3d1fa0254bc3923dcf47fed49ea
+Author: Joseph Woodard <jwoodard@mymail.mines.edu>
+Date:   Sun Feb 25 16:33:58 2018 -0700
+
+     Changed the color of the eyes to be blue
+
+commit e9620e77cf9d60826ff2d7e63ebe9179730bb09a
+Author: Garrett Van Buskirk <gvanbusk@mines.edu>
+Date:   Sun Feb 25 16:13:38 2018 -0700
+
+    intial commit pusing it back to Git Hub repository for the first time. Imported the files and dragged them into the src.
+
+commit fbf51fc019cc834f002b4fcc02e44ec36b686c03
+Author: saintofsteez <35740492+saintofsteez@users.noreply.github.com>
+Date:   Sun Feb 25 15:21:32 2018 -0700
+
+    Initial commit
